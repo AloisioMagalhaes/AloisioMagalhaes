@@ -21,13 +21,12 @@ Este repositório acompanha minha jornada de aprendizado e desenvolvimento de so
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webassembly/webassembly-original-wordmark.svg" alt="WebAssembly" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="PWA (using React as placeholder)" width="40" height="40"/> <!-- Placeholder icon for PWA -->
+   
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/API" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code/code-original.svg" alt="WebAPI" width="40" height="40"/> <!-- Generic code icon -->
   </a>
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="RESTful API (using .NET as placeholder)" width="40" height="40"/> <!-- Placeholder icon -->
   </a>
   <a href="https://nodejs.org/api/addons.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS C++ Addon API" width="40" height="40"/>
@@ -36,12 +35,12 @@ Este repositório acompanha minha jornada de aprendizado e desenvolvimento de so
   <br>
   <b>Edge Computing</b> (No specific icon found, using text)
   <br>
-  <b>Networking</b> (Using a generic placeholder)
+  <b>Networking</b>
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Networking (placeholder)" width="40" height="40"/> <!-- Placeholder icon -->
   </a>
   <br>
-  <b>Low-Level & Bare-Metal Programming</b> (Using a generic placeholder)
+  <b>Low-Level & Bare-Metal Programming</b>
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Low-Level (placeholder)" width="40" height="40"/> <!-- Placeholder icon -->
   </a>
