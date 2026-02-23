@@ -1,75 +1,65 @@
-# 👨‍💻 Aloisio Magalhães
+# Olá, eu sou o Aloisio Magalhães! 👋
 
-**Professor & Solo Developer** | Brasil 🇧🇷
+### Desenvolvedor Web Full Stack | Graduando em ADS (UNINASSAU) | AI Enthusiast
 
----
-
-## 🎯 Sobre Mim
-
-Desenvolvedor full-stack e educador focado em **Alto Desempenho** e **Arquitetura de Software** robusta. Minha paixão é construir sistemas escaláveis e eficientes, explorando o potencial de tecnologias nativas em ambientes Node.js e Web.
-
-Estou disponível para **projetos freelance**, **consultoria** e **oportunidades full-time**.
+Sou um desenvolvedor apaixonado por construir soluções escaláveis e eficientes. Meu diferencial competitivo é a **produtividade aumentada por IA Generativa**, utilizando ferramentas como Gemini para acelerar o ciclo de desenvolvimento, refatoração de código e resolução de bugs em tecnologias modernas e sistemas legados.
 
 ---
 
-## 🚀 Áreas de Atuação
+## 🛠 Minhas Tecnologias (Tech Stack)
 
-Minha experiência se concentra nas seguintes áreas:
+### 🤖 IA & Produtividade
+* **Engenharia de Prompt:** Uso avançado de LLMs (Gemini, ChatGPT) para aceleração técnica e desenvolvimento assistido.
 
-| Área | Foco |
-| :--- | :--- |
-| 🎮 **Games Indie** | Desenvolvimento e ensino de Game Design. |
-| 🧠 **Inteligência Artificial** | IA aplicada e Machine Learning. |
-| 📊 **Análise e Desenvolvimento** | Sistemas e arquitetura de software (foco em performance). |
+### 🌐 Frontend
+* **Core:** JavaScript (ES6+), TypeScript, React.js.
+* **Styling & UI:** CSS3, HTML5, Styled-components, Material UI, Bootstrap, jQuery/jQuery UI.
+* **State Management:** Context API, Redux, Hooks.
 
----
+### ⚙️ Backend & Infra
+* **Node.js:** Express.js, Knex.js, APIs RESTful.
+* **Linguagens de Servidor:** PHP 8, Java (POO).
+* **Bases de Dados:** PostgreSQL, MySQL, SQLite.
+* **DevOps:** Docker, AWS (EC2), Firebase, Git.
 
-## 🛠 Stack Tecnológica
-
-Um resumo das principais tecnologias e conceitos que utilizo:
-
-### Backend & High Performance
-* **Linguagens/Runtime:** C/C++, Node.js Runtime
-* **Integração:** N-API, WebAssembly
-* **Paralelismo/Memória:** SharedArrayBuffer, Atomics
-
-### Linguagens & Tipagem
-* JavaScript (ES6+)
-* TypeScript
-* AssemblyScript
-* C/C++
-* HTML5, SCSS
-
-### Arquitetura & Organização
-* Clean Architecture
-* Monorepo (NPM Workspaces)
-* NPM Packages
-* **Frontend:** PWA, MPA, SPA
-
-### Web APIs & Tooling
-* **APIs:** ServiceWorker, WebWorkers, Worklets, WebNN
-* **Bundlers/Tools:** Rollup, Vite
-* **DevOps:** Git, GitHub Actions
-* **Deployment:** Render, Surge.sh
+### 🧪 Qualidade & Engenharia
+* **Testes:** Jest (Unitários e Mocks).
+* **Arquitetura:** SOLID, DTOs, Arquitetura em Camadas, Clean Code.
 
 ---
 
-## ✨ Projetos em Destaque
+## 🎓 Formação & Conquistas
 
-| Projeto | Descrição | Tecnologias Chave | Link |
-| :--- | :--- | :--- | :--- |
-| **Node.js Native Addons** | Demonstração de arquitetura com pacote Node.js contendo módulos nativos C++ via N-API. | `C++` `N-API` | [Repositório](https://github.com/AloisioMagalhaes/cpp-node-addon) |
-| **Anne Frank Biografia** | Website utilizando bundler Vite, focado em Arquitetura Frontend. | `Vite` `JavaScript` `HTML5` | [Live Demo](https://aloisiomagalhaes.github.io/anne-frank-unveiled-legacy) |
+* **Ensino Superior:** Análise e Desenvolvimento de Sistemas - **UNINASSAU** (Média Global: 8,62).
+* **Bootcamp Profissionalizante:** Web Full Stack - **Labenu** (1040 horas intensivas).
+* **Destaques:** Nota 9.5 em IA Aplicada e Programação Orientada a Objetos.
 
 ---
 
-## ✉️ Contato
+## 💼 Experiência em Destaque
 
-* **Email:** `educacao1ouro@gmail.com`
-* **LinkedIn:** [linkedin.com/in/aloisio-magalhaes](https://www.linkedin.com/in/aloisio-magalhaes)
-* **GitHub:** [github.com/AloisioMagalhaes](https://github.com/AloisioMagalhaes)
+**NextCompany (Estágio de Desenvolvimento)**
+* Desenvolvimento de sistemas CRM utilizando PHP 8 e Scriptcase.
+* Integração de bibliotecas UI e resolução de conflitos de dependências.
+* **Fator IA:** Implementação de fluxos de trabalho 30% mais rápidos através de assistência por IA para contornar limitações de documentação.
 
-<br>
+---
+
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AloisioMagalhaes&show_icons=true&theme=vue-dark&hide_title=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AloisioMagalhaes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AloisioMagalhaes&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+---
+
+## 📫 Vamos nos conectar?
+
+* **LinkedIn:** [linkedin.com/in/aloisio-magalhaes](https://www.linkedin.com/in/aloisio-magalhaes)
+* **E-mail:** [educacao1ouro@gmail.com](mailto:educacao1ouro@gmail.com)
+* **Localização:** Teresina-PI, Brasil 🇧🇷
+
+---
+
+> *"A tecnologia é apenas uma ferramenta. O diferencial está em como você usa a Inteligência (Humana e Artificial) para resolver problemas complexos."*
