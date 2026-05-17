@@ -87,6 +87,28 @@ para o controle de qualidade que equipes maiores têm com code review formal:
 
 ---
 
+## Agentes Especializados (Hermes Skills)
+
+Sistema de agentes auxiliares para desenvolvimento DevSecOps completo,
+baseados nas referências normativas acima:
+
+| Agente | Referências | Escopo |
+|--------|------------|--------|
+| **Security** | ISO 27001, OWASP, Zero Trust, STRIDE | Segurança da informação, threat modeling, SAST/DAST |
+| **Privacy** | LGPD, ISO 27701, Privacy by Design | Privacidade, DPIA, consentimento, direitos do titular |
+| **DevOps** | ITIL 4, Docker, Prometheus | CI/CD, observabilidade, incident management |
+| **Frontend** | WCAG 2.1, i18next, React | React/Next.js, acessibilidade, internacionalização |
+| **Backend** | Node.js, PostgreSQL, REST | APIs RESTful, NestJS, modelagem de dados |
+| **Cross-Platform** | Tauri, Electron, RN, Capacitor | Desktop, mobile, web híbrido |
+| **Quality** | ISO 25010, Jest, Playwright | Testes, métricas, quality gates |
+| **GitHub** | GitHub Actions, API REST/GraphQL | Repos, PRs, CI/CD, releases, automação |
+| **Orchestrator** | Todos os acima | Coordenação de todos os agentes |
+
+Cada agente contém: referências normativas, checklists verificáveis,
+templates prontos, exemplos de código e workflows end-to-end.
+
+---
+
 ## Formação
 
 **Análise e Desenvolvimento de Sistemas** — UNINASSAU
